@@ -1,0 +1,9 @@
+.git
+.vscode
+.DS_Store
+node_modules
+src
+.env
+.gitignore
+README.md
+tsconfig.json

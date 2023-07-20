@@ -1,0 +1,6 @@
+{
+    "standard.enable": true,
+    "standard.engine": "ts-standard",
+    "standard.autoFixOnSave": true,
+    "prettier.enable": false
+}
